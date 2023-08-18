@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pk-album/static/css/main.57b61146.css",
+    "main.js": "/pk-album/static/js/main.8766682b.js",
+    "static/js/787.4bbf718a.chunk.js": "/pk-album/static/js/787.4bbf718a.chunk.js",
+    "index.html": "/pk-album/index.html",
+    "main.57b61146.css.map": "/pk-album/static/css/main.57b61146.css.map",
+    "main.8766682b.js.map": "/pk-album/static/js/main.8766682b.js.map",
+    "787.4bbf718a.chunk.js.map": "/pk-album/static/js/787.4bbf718a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b61146.css",
+    "static/js/main.8766682b.js"
+  ]
+}
